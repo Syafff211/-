@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SyafNime - Anime Streaming Hub</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="navbar">
+    <div class="container nav-content">
+      <a class="logo" href="index.html">SyafNime</a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="anime.html">Anime List</a>
+        <a href="anime.html#favorite">Favorite</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-text">
+        <h1>SyafNime – Anime Streaming Hub</h1>
+        <p>
+          Temukan dunia anime favoritmu di satu tempat. Nikmati katalog lengkap, update terbaru,
+          dan pengalaman streaming modern dengan nuansa anime-style.
+        </p>
+        <div class="hero-actions">
+          <a class="button" href="anime.html">Jelajahi Anime</a>
+          <a class="button outline" href="anime.html#favorite">Lihat Favorit</a>
+        </div>
+      </div>
+      <div class="hero-card">
+        <div class="badges">
+          <span class="badge">Streaming 24/7</span>
+          <span class="badge">Update Harian</span>
+          <span class="badge">Dark Mode</span>
+        </div>
+        <h3>Kenapa SyafNime?</h3>
+        <p>
+          Rekomendasi pintar, daftar episode lengkap, dan fitur pencarian real-time membantu
+          kamu menemukan anime terbaik dengan cepat.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="section-title">Anime Populer</h2>
+      <div class="slider" id="popular-slider">
+        <div class="slider-track" id="slider-track"></div>
+        <div class="slider-controls">
+          <button class="icon-button" id="prev-slide" aria-label="Sebelumnya">‹</button>
+          <button class="icon-button" id="next-slide" aria-label="Selanjutnya">›</button>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2 class="section-title">Anime Terbaru</h2>
+      <div class="grid" id="latest-grid"></div>
+    </section>
+
+    <section id="about">
+      <h2 class="section-title">Tentang SyafNime</h2>
+      <p class="meta">
+        SyafNime adalah portal streaming anime modern dengan katalog yang terus diperbarui.
+        Dibangun menggunakan HTML, CSS, dan JavaScript murni agar ringan dan mudah dikembangkan.
+      </p>
+    </section>
+  </main>
+
+  <footer class="footer">© SyafNime</footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

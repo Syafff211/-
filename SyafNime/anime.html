@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SyafNime - Anime List</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="navbar">
+    <div class="container nav-content">
+      <a class="logo" href="index.html">SyafNime</a>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="anime.html">Anime List</a>
+        <a href="#favorite">Favorite</a>
+        <a href="index.html#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2 class="section-title">Anime List</h2>
+      <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Cari anime berdasarkan judul..." />
+      </div>
+      <div class="grid" id="anime-grid"></div>
+    </section>
+
+    <section id="favorite">
+      <h2 class="section-title">Favorite</h2>
+      <div class="grid" id="favorite-grid"></div>
+    </section>
+  </main>
+
+  <footer class="footer">© SyafNime</footer>
+
+  <script src="js/anime.js"></script>
+</body>
+</html>

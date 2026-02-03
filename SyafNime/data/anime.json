@@ -1,0 +1,144 @@
+{
+  "anime": [
+    {
+      "id": "a1",
+      "title": "Aurora Blade",
+      "genres": ["Action", "Fantasy", "Adventure"],
+      "status": "Ongoing",
+      "rating": 4.8,
+      "episodes": 12,
+      "cover": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1400&q=80",
+      "synopsis": "Di dunia yang diselimuti aurora abadi, seorang pendekar muda menemukan pedang kuno yang menghubungkan takdirnya dengan roh penjaga langit. Ia harus memilih antara menyelamatkan desanya atau memburu kebenaran tentang asal-usulnya.",
+      "episodeList": [
+        {
+          "number": 1,
+          "title": "Pedang di Bawah Aurora",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 2,
+          "title": "Janji di Gerbang Utara",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 3,
+          "title": "Ritual Cahaya",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "a2",
+      "title": "Neon Sakura",
+      "genres": ["Sci-Fi", "Romance"],
+      "status": "Completed",
+      "rating": 4.6,
+      "episodes": 24,
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?auto=format&fit=crop&w=1400&q=80",
+      "synopsis": "Di Neo-Tokyo yang dipenuhi lampu neon, seorang teknisi AI dan penyanyi jalanan bertemu, membuka rahasia besar tentang proyek Sakura yang dapat mengubah masa depan manusia.",
+      "episodeList": [
+        {
+          "number": 1,
+          "title": "Hujan Neon",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 2,
+          "title": "Sinyal dari Langit",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 3,
+          "title": "Kode Sakura",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "a3",
+      "title": "Crimson Ronin",
+      "genres": ["Action", "Drama"],
+      "status": "Ongoing",
+      "rating": 4.4,
+      "episodes": 10,
+      "cover": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1400&q=80",
+      "synopsis": "Seorang ronin tanpa tuan menempuh perjalanan untuk menebus masa lalunya, sementara perang klan kembali memanaskan pedang yang telah lama disarungkan.",
+      "episodeList": [
+        {
+          "number": 1,
+          "title": "Langkah di Tanah Basah",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 2,
+          "title": "Bayangan di Gerbang Timur",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 3,
+          "title": "Darah dan Keteguhan",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "a4",
+      "title": "Skybound Academy",
+      "genres": ["School", "Fantasy"],
+      "status": "Completed",
+      "rating": 4.7,
+      "episodes": 13,
+      "cover": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1400&q=80",
+      "synopsis": "Akademi terapung di langit melatih calon penjaga dunia. Ketika retakan langit muncul, sekelompok siswa harus bersatu sebelum keajaiban mereka memudar.",
+      "episodeList": [
+        {
+          "number": 1,
+          "title": "Upacara Pengangkatan",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 2,
+          "title": "Badai di Asrama",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 3,
+          "title": "Sayap Pertama",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        }
+      ]
+    },
+    {
+      "id": "a5",
+      "title": "Lunar Echoes",
+      "genres": ["Mystery", "Supernatural"],
+      "status": "Ongoing",
+      "rating": 4.5,
+      "episodes": 8,
+      "cover": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=80",
+      "synopsis": "Setiap bulan purnama, kota kecil di pesisir mendengar bisikan laut. Seorang fotografer muda mulai mengungkap rahasia keluarga yang selama ini disembunyikan.",
+      "episodeList": [
+        {
+          "number": 1,
+          "title": "Bisikan Pertama",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 2,
+          "title": "Jejak di Pasir",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        },
+        {
+          "number": 3,
+          "title": "Surat Rahasia",
+          "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+        }
+      ]
+    }
+  ]
+}
